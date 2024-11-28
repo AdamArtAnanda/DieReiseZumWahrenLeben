@@ -1,16 +1,14 @@
 # Die Reise zum wahren Leben 
 ### Erwachen in einer neuen Welt
 
-Biographie
+Selbsthilfe  
 
 
 # Impressum
-Texte: 			© 2024 Copyright by Adam Art Ananda
-Verantwortlich
+Texte: 			© 2024 Copyright by Olaf Japp  
+Verantwortlich  
 für den Inhalt:	
-				Adam Art Ananda
-				Braunsdorfer Str. 22
-				06886 Lutherstadt Wittenberg
-				artanidos@gmail.com
-
-
+				Olaf Japp  
+				Braunsdorfer Str. 22  
+				06886 Lutherstadt Wittenberg  
+				japp.olaf@gmail.com  
