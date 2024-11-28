@@ -10,3 +10,22 @@ Einen großen Teil dieses Wissens habe auch ich einst als Geschenk empfangen –
 In einer Welt, die oft von Profit und Machtgetriebenheit beherrscht wird, ist es ein Akt der Rebellion und der Liebe, Wissen ohne Bedingungen zu teilen. Möge dieses Buch dir dabei helfen, neue Perspektiven zu gewinnen und dich in deinem eigenen Leben auf das Wesentliche zu fokussieren: Die Freiheit zu leben, zu lieben und zu geben, ohne zurückzuhalten.
 
 Das Leben ist ein Kreislauf des Gebens und Empfangens. Möge dieses Buch ein kleiner Funke in diesem Kreislauf sein, der immer weitergeht, von Herz zu Herz, von Seele zu Seele.
+
+Optional kannst Du auch zusätzlich eine Printversion erhalten. Diese kostet allerdings Geld, da ja auch noch Druckkosten anfallen. 
+
+Mit dem Kauf der Printversion dieses Buches erhältst du nicht nur zusätzliche Kapitel, die dir auf deinem Weg weiterhelfen sollen, sondern du trägst auch aktiv zu einer besseren Welt bei. Ein Teil der Erlöse fließt in gemeinnützige Projekte, die sich für Nachhaltigkeit, soziale Gerechtigkeit und alternative Lebensweisen einsetzen. So unterstützt du nicht nur mich, sondern auch all jene, die mit uns gemeinsam an einer positiven Veränderung arbeiten.  
+Dein Beitrag macht den Unterschied!
+
+Vernetze Dich gerne mit mir, denn ich möchte Land erwerben und damit Gemeinschaften aufbauen.
+
+Das Land kommt dann einer Genossenschaft zu Gute, da ich selber kein Land besitzen möchte, 
+weil Besitz ja bekanntlich verpflichtet. Außerdem kann einem das Niemand wegpfänden.
+
+Ich denke daran, dort ein Tinyhaus hinzustellen, wo ein Erdhüter wohnen kann und den Garten hegt und pflegt.
+Dann wird es dort eine Komposttoilette haben, eine Gemeinschaftsküche und zum Beispiel ein Geodesic Dome in dem die Bewohner der Gemeinschaft sitzen können, wenn es regnet und dort auch Feste und Workshops geben können.
+
+Pläne für das Tinyhaus werden Open Source, damit sich jeder selber eins kostengünstig bauen kann.
+
+Auch kenne ich jemanden der Jurten-Bau-Workshops gibt und uns hefen kann.
+
+So erreichst Du mich [artanidos@gmail.com](mailto:artanidos@gmail.com) oder verbinde dich mit mir auf [Telegram](https://t.me/artanidos).

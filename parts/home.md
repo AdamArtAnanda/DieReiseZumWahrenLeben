@@ -4,7 +4,7 @@
 Biographie
 
 
-## Impressum
+# Impressum
 Texte: 			© 2024 Copyright by Adam Art Ananda
 Verantwortlich
 für den Inhalt:	
