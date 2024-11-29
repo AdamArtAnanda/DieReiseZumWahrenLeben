@@ -58,3 +58,5 @@ In dieser neuen Realität können wir uns auf das Wesentliche konzentrieren: das
 Es liegt in unserer Hand, wie wir diese Zukunft gestalten. Der Wunsch nach einem Leben ohne Ausbeutung und Ungerechtigkeit ist der erste Schritt in eine neue Ära – und wie du so schön sagst, „so sei es!“ 💫 
 
 Aho, auf das wir alle gemeinsam diesen Weg gehen können!
+
+<div class="page-break-after"/>

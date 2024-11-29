@@ -5,7 +5,8 @@ Ebook {
 	theme: "Epub3"
 	creator: "Adam Art Ananda"
 	language: "de"
-
+	deployDirEpub: "/Users/Art/Ebooks/DieReiseZumWahrenLeben"
+	
 	Part {
 		src: "home.md"
 	}
@@ -17,6 +18,9 @@ Ebook {
 	}
 	Part {
 		src: "vorwort.md"
+	}
+	Part {
+		src: "about.md"
 	}
 	Part {
 		src: "einleitung.md"
@@ -74,5 +78,8 @@ Ebook {
 	}
 	Part {
 		src: "energie.md"
+	}
+	Part {
+		src: "glossar.md"
 	}
 }

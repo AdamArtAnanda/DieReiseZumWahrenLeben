@@ -13,13 +13,13 @@ Das Leben ist ein Kreislauf des Gebens und Empfangens. Möge dieses Buch ein kle
 
 Optional kannst Du auch zusätzlich eine Printversion erhalten. Diese kostet allerdings Geld, da ja auch noch Druckkosten anfallen. 
 
-Mit dem Kauf der Printversion dieses Buches erhältst du nicht nur zusätzliche Kapitel, die dir auf deinem Weg weiterhelfen sollen, sondern du trägst auch aktiv zu einer besseren Welt bei. Ein Teil der Erlöse fließt in gemeinnützige Projekte, die sich für Nachhaltigkeit, soziale Gerechtigkeit und alternative Lebensweisen einsetzen. So unterstützt du nicht nur mich, sondern auch all jene, die mit uns gemeinsam an einer positiven Veränderung arbeiten.  
+Mit dem Kauf der [Printversion](https://www.epubli.com/shop/die-reise-zum-wahren-leben-9783818731199) dieses Buches erhältst du nicht nur zusätzliche Kapitel, die dir auf deinem Weg weiterhelfen sollen, sondern du trägst auch aktiv zu einer besseren Welt bei. Ein Teil der Erlöse fließt in gemeinnützige Projekte, die sich für Nachhaltigkeit, soziale Gerechtigkeit und alternative Lebensweisen einsetzen. So unterstützt du nicht nur mich, sondern auch all jene, die mit uns gemeinsam an einer positiven Veränderung arbeiten.  
+Das Buch wird bei [epubli](https://www.epubli.com/shop/die-reise-zum-wahren-leben-9783818731199), einem Berliner Unternehmen gedruckt.
 Dein Beitrag macht den Unterschied!
 
 Vernetze Dich gerne mit mir, denn ich möchte Land erwerben und damit Gemeinschaften aufbauen.
 
-Das Land kommt dann einer Genossenschaft zu Gute, da ich selber kein Land besitzen möchte, 
-weil Besitz ja bekanntlich verpflichtet. Außerdem kann einem das Niemand wegpfänden.
+Das Land kommt dann einer Genossenschaft zu Gute, da ich selber kein Land besitzen möchte, weil Besitz ja bekanntlich verpflichtet. Außerdem kann einem das Niemand wegpfänden.
 
 Ich denke daran, dort ein Tinyhaus hinzustellen, wo ein Erdhüter wohnen kann und den Garten hegt und pflegt.
 Dann wird es dort eine Komposttoilette haben, eine Gemeinschaftsküche und zum Beispiel ein Geodesic Dome in dem die Bewohner der Gemeinschaft sitzen können, wenn es regnet und dort auch Feste und Workshops geben können.
@@ -28,4 +28,4 @@ Pläne für das Tinyhaus werden Open Source, damit sich jeder selber eins kosten
 
 Auch kenne ich jemanden der Jurten-Bau-Workshops gibt und uns hefen kann.
 
-So erreichst Du mich [artanidos@gmail.com](mailto:artanidos@gmail.com) oder verbinde dich mit mir auf [Telegram](https://t.me/artanidos).
+So erreichst Du mich [artanidos@gmail.com](mailto:artanidos@gmail.com) oder verbinde dich mit mir auf [Telegram](https://t.me/artanidos).r
