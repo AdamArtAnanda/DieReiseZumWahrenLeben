@@ -5,7 +5,7 @@ Page {
 	Column {
 		padding: "8"
 
-		Spacer {amount: 32}
+		Spacer {amount: 16}
 		Markdown {
 			part: "home.md"
 		}

@@ -55,7 +55,7 @@ App {
 	}
 // deployment start - don't edit here
 Deployment {
-File { path: "home.sml" time: "2024.12.03 16.00.07" type: "page" }
+File { path: "home.sml" time: "2024.12.03 16.07.57" type: "page" }
   File { path: "geschenk.sml" time: "2024.12.03 16.00.13" type: "page" }
   File { path: "burnout.md" time: "2024.11.27 22.29.36" type: "part" }
   File { path: "dearmoring.md" time: "2024.11.27 22.27.57" type: "part" }
