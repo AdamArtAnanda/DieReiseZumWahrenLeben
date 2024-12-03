@@ -55,8 +55,8 @@ App {
 	}
 // deployment start - don't edit here
 Deployment {
-File { path: "home.sml" time: "2024.12.03 15.18.12" type: "page" }
-  File { path: "geschenk.sml" time: "2024.12.03 15.18.56" type: "page" }
+File { path: "home.sml" time: "2024.12.03 16.00.07" type: "page" }
+  File { path: "geschenk.sml" time: "2024.12.03 16.00.13" type: "page" }
   File { path: "burnout.md" time: "2024.11.27 22.29.36" type: "part" }
   File { path: "dearmoring.md" time: "2024.11.27 22.27.57" type: "part" }
   File { path: "partnerschaft.md" time: "2024.11.27 22.10.48" type: "part" }
@@ -68,7 +68,7 @@ File { path: "home.sml" time: "2024.12.03 15.18.12" type: "page" }
   File { path: "weiber.md" time: "2024.11.27 22.01.45" type: "part" }
   File { path: "einleitung.md" time: "2024.11.29 07.18.36" type: "part" }
   File { path: "danksagung.md" time: "2024.11.29 07.18.01" type: "part" }
-  File { path: "home.md" time: "2024.12.03 15.17.03" type: "part" }
+  File { path: "home.md" time: "2024.12.03 15.56.28" type: "part" }
   File { path: "spiegel.md" time: "2024.11.27 22.19.28" type: "part" }
   File { path: "glossar.md" time: "2024.11.29 07.42.36" type: "part" }
   File { path: "geschenk.md" time: "2024.11.29 07.42.40" type: "part" }
