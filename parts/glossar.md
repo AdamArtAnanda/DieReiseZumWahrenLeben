@@ -1,5 +1,4 @@
 <div class="page-break-before"/>
-
 # Glossar
 
 | Begriff | Erklärung |  

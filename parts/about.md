@@ -1,6 +1,5 @@
 # Über den Autor
 ![olaf](olaf.png)
-
 Adam Art Ananda wurde am 20. November 1963 als Skorpion, Aszendent Jungfrau, mit Mond im Steinbock und viel Schütze-Energie in Hamburg geboren und wuchs im Kreis Pinneberg auf. Nach dem Abschluss der Realschule absolvierte er eine Ausbildung zum Maschinenschlosser. Als er durch eine Erkrankung der Wirbelsäule aus dem Arbeitsprozess gerissen wurde – einer Arbeit, die ihm ohnehin keinen Spaß machte – entschied er sich, sich für die Meisterschule anzumelden. Parallel begann er ein Fernstudium zum Maschinenbautechniker. Aufgrund einer sehr langen Warteliste für die Meisterschule, studierte er stattdessen Machinenbau, brach das Technikerstudium nach dem zweiten Semester jedoch ab, da er in dieser Zeit sein erstes eigenes Softwareprogramm entwickelte, mit dem er in kurzer Zeit viel Geld verdienen konnte.
 
 Aus purer Neugier forschte Art weiter im Bereich der Softwareentwicklung und wurde fünf Jahre später erstmals als Consultant für einen großen Chemiekonzern engagiert. In den folgenden Jahren zählten einige Top-500-Unternehmen zu seinen Auftraggebern, bis der Börsencrash im Jahr 2000 ihn zwang, aufzugeben. Nachdem das Finanzamt seine Konten sperren ließ, zog er in die Schweiz. Dort arbeitete er zunächst für eine Fluggesellschaft und später für eine Bank.

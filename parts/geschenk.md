@@ -1,6 +1,5 @@
 # Ein Geschenk an dich
 ![magic_book](magic_book.png)
-
 Mit diesem Buch möchte ich dir nicht nur Informationen und Erkenntnisse übermitteln, sondern es dir auch als ein Geschenk anbieten. Dieses Werk unterliegt der Creative-Commons-Lizenz, die es dir erlaubt, es für alle nichtkommerziellen Zwecke zu nutzen und zu teilen – ganz im Geiste des Gebens und des freien Zugangs zu Wissen.
 
 Du darfst Auszüge aus diesem Buch in deinem Blog, in Foren oder auf anderen Plattformen verwenden, solange es nicht kommerziell genutzt wird und keine gewinnorientierten Zwecke verfolgt. Ich bitte dich lediglich, die Quelle zu zitieren, damit dieses Wissen für andere Menschen ebenso zugänglich bleibt. So geben wir gemeinsam das, was uns gegeben wurde, weiter.
@@ -28,4 +27,4 @@ Pläne für das Tinyhaus werden Open Source, damit sich jeder selber eins kosten
 
 Auch kenne ich jemanden der Jurten-Bau-Workshops gibt und uns hefen kann.
 
-So erreichst Du mich [artanidos@gmail.com](mailto:artanidos@gmail.com) oder verbinde dich mit mir auf [Telegram](https://t.me/artanidos).r
+So erreichst Du mich [artanidos@gmail.com](mailto:artanidos@gmail.com) oder verbinde dich mit mir auf [Telegram](https://t.me/artanidos).

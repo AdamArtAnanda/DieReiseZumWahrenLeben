@@ -85,18 +85,18 @@ Von mir selbst weiß ich, dass ich viele Menschen gespiegelt und wahrscheinlich 
 
 Das habe ich oft getan. Und jedes Mal hatte ich Mitleid mit den Menschen, die ich getriggert habe. Es tat mir weh.
 
-All die Frauen, mit denen ich Schluss gemacht habe, taten mir leid. Nein – ich tat mir selbst leid. 
+All die Frauen, mit denen ich Schluss gemacht habe, taten mir leid. Nein – ich tat mir selbst leid.
 
-„Man kann niemanden Wehtun, ohne sich selber dabei weh zu tun“ - Unbekannt
+„Man kann niemanden Wehtun, ohne sich selber dabei weh zu tun“- Unbekannt
 
 All diese lieben Menschen in meinem Leben sind meine Spiegel. Ihre Aufgabe ist es unter anderem, mir Schmerzen zu bereiten, damit Heilung geschehen kann – sofern ich es bemerke und zulasse. Bei meiner Dual-Seele konnte ich loslassen. Wir waren nur 1,5 Jahre zusammen, aber auch dafür brauchte ich viel Unterstützung von außen. Und all diese Hilfe kam von Engeln.
 
 Wie es in dem Buch „Die kleine Seele redet mit Gott“ von Neal Donald Walsh heißt: „Ich habe dir nur Engel gesendet.“
 
-Ich nenne diese Erfahrungen Spiegel-Neurosen, denn es tut weh, jemanden, den man liebt, verletzen zu müssen. Meine Frau sagte oft: „Ich will dich nicht schlagen, aber ich kann nicht anders“ – und dann boxte sie mich. ;-)
+Ich nenne diese Erfahrungen Spiegel-Neurosen, denn es tut weh, jemanden, den man liebt, verletzen zu müssen. Meine Frau sagte oft: „Ich will dich nicht schlagen, aber ich kann nicht anders“ – und dann boxte sie mich.
 
 Und meine Liebste sagte einmal: „Wenn ich dich nicht so abgöttisch geliebt hätte, hätte ich es nicht ausgehalten und könnte diese Erfahrung nicht machen.“
 
 Ja, auch Seelenverwandte scheiden irgendwann wieder aus unserem Leben und gehen ihren eigenen Weg. Einige von ihnen bekommen sogar ihre Flügel. 🙂 Meine Frau sagte hin und wieder im Spaß: „Es juckt schon an den Schulterblättern, ich bekomme wohl bald meine Flügel.“ Sie wusste intuitiv, wie das Leben funktioniert. Sie hat sich ihre Flügel wirklich redlich verdient. 
 
-Danke, Struppi. <3
+Danke, Struppi <3

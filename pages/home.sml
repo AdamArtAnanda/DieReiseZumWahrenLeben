@@ -4,12 +4,18 @@ Page {
 	
 	Column {
 		padding: "8"
+		Image { src: "door.png" }
 
 		Spacer {amount: 16}
 		Markdown {
 			part: "home.md"
 		}
 		Spacer { weight: 1}
-		Button { label: "Geschenk" link: "page:geschenk" }
+		
+		Row {
+			
+			Spacer {amount: 8}
+			Button {label: "Geschenk >" link: "page:geschenk" weight: 1}
+		}
 	}
 }
