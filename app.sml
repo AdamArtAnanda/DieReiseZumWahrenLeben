@@ -58,7 +58,7 @@ Deployment {
 File { path: "sinn.sml" time: "2024.12.04 08.29.17" type: "page" }
   File { path: "ewigesleben.sml" time: "2024.12.04 08.29.24" type: "page" }
   File { path: "about.sml" time: "2024.12.04 08.28.54" type: "page" }
-  File { path: "glossar.sml" time: "2024.12.04 08.29.43" type: "page" }
+  File { path: "glossar.sml" time: "2024.12.04 09.56.55" type: "page" }
   File { path: "burnout.sml" time: "2024.12.04 08.28.56" type: "page" }
   File { path: "weiber.sml" time: "2024.12.04 08.29.01" type: "page" }
   File { path: "selbstliebe.sml" time: "2024.12.04 08.29.06" type: "page" }
@@ -70,16 +70,17 @@ File { path: "sinn.sml" time: "2024.12.04 08.29.17" type: "page" }
   File { path: "danksagung.sml" time: "2024.12.04 08.28.51" type: "page" }
   File { path: "chakras.sml" time: "2024.12.04 08.29.13" type: "page" }
   File { path: "samadhi.sml" time: "2024.12.04 08.28.59" type: "page" }
+  File { path: "buchtips.sml" time: "2024.12.04 09.56.59" type: "page" }
   File { path: "spiegel.sml" time: "2024.12.04 08.29.19" type: "page" }
   File { path: "dearmoring.sml" time: "2024.12.04 08.29.12" type: "page" }
-  File { path: "home.sml" time: "2024.12.04 08.28.44" type: "page" }
+  File { path: "home.sml" time: "2024.12.04 09.57.01" type: "page" }
   File { path: "partnerschaft.sml" time: "2024.12.04 08.29.09" type: "page" }
   File { path: "womo.sml" time: "2024.12.04 08.29.15" type: "page" }
   File { path: "geschenk.sml" time: "2024.12.04 08.28.49" type: "page" }
   File { path: "ejakulation.sml" time: "2024.12.04 08.28.58" type: "page" }
   File { path: "einleitung.sml" time: "2024.12.04 08.28.55" type: "page" }
   File { path: "neuronen.sml" time: "2024.12.04 08.29.20" type: "page" }
-  File { path: "energie.sml" time: "2024.12.04 08.29.25" type: "page" }
+  File { path: "energie.sml" time: "2024.12.04 09.55.40" type: "page" }
   File { path: "burnout.md" time: "2024.12.04 05.31.32" type: "part" }
   File { path: "dearmoring.md" time: "2024.11.27 22.27.57" type: "part" }
   File { path: "partnerschaft.md" time: "2024.12.04 05.48.36" type: "part" }
@@ -91,7 +92,7 @@ File { path: "sinn.sml" time: "2024.12.04 08.29.17" type: "page" }
   File { path: "weiber.md" time: "2024.12.04 05.41.01" type: "part" }
   File { path: "einleitung.md" time: "2024.11.29 07.18.36" type: "part" }
   File { path: "danksagung.md" time: "2024.11.29 07.18.01" type: "part" }
-  File { path: "home.md" time: "2024.12.04 08.12.31" type: "part" }
+  File { path: "home.md" time: "2024.12.04 09.49.33" type: "part" }
   File { path: "spiegel.md" time: "2024.12.04 06.21.12" type: "part" }
   File { path: "glossar.md" time: "2024.12.04 08.17.32" type: "part" }
   File { path: "geschenk.md" time: "2024.12.04 04.30.11" type: "part" }
