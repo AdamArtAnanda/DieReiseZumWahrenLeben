@@ -1,5 +1,4 @@
 # Liebe
-![seed](seed.png)
 
 Bevor ich mit 30 Jahren meine zukünftige Frau kennengelernt habe, mit der ich 20 tolle Jahre verbracht habe, hatte ich viel Gelegenheit, Mädchen und Frauen kennenzulernen und sie zu lieben. Ja, ich habe jede einzelne von ihnen geliebt, auch die vielen Prostituierten, denn auch sie sind Menschen. Sie spielen halt nur eine andere Rolle. Eine wichtige Rolle, wie ich finde.
 

@@ -1,5 +1,4 @@
 # Energieprobleme gelöst
-![technique](technique.png)
 
 An dem Morgen nach der ersten Rauhnacht saßen wir zu dritt zusammen und beobachteten einen wundervollen Sonnenaufgang über Berlin. Unsere Kreativität sprudelte nur so vor Ideen. Wir begannen uns zu fragen: „Wie können wir das Energieproblem des Planeten lösen?“ und „Was benötigen wir überhaupt?“
 

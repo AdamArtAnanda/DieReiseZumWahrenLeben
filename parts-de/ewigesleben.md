@@ -1,5 +1,4 @@
 # Ewiges Leben
-![spiral](spiral.png)
 
 Ich habe es schon lange gewusst – oder besser geahnt –, dass wir ewig leben werden. Doch kurz nach Weihnachten fand ich den Beweis oder zumindest eine Erklärung, warum das so sein könnte.
 

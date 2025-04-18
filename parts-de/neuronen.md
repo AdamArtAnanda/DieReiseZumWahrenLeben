@@ -1,5 +1,4 @@
 # Spiegel-Neuronen
-![mirror](mirror.png)
 
 Es gibt in meinem Leben leider einige Menschen, die nicht nur den Kontakt zu mir abgebrochen haben – was etwas ganz Natürliches ist – sondern auch solche, die jeglichen Kontakt zu mir verweigern.
 

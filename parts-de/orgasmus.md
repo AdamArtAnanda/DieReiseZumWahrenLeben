@@ -1,5 +1,4 @@
 # Mein erster Ganzkörper-Orgasmus
-![ekstase](ekstase.png)
 
 Wenn man bei einem Mann über Orgasmus spricht, dann geht es meist nur um die Ejakulation. Der wahre Orgasmus hingegen, wie ihn Frauen auf natürliche Weise erleben können – wenn sie eine gewisse sexuelle und körperliche Reife erreicht haben –, bleibt vielen Männern oft verwehrt. Bis zu dem Tag, an dem ich meinen ersten Tantramassage-Workshop besuchte, kurz nach meinem Aufenthalt in der Klapsmühle.
 
